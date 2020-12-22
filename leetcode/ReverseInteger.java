@@ -1,5 +1,5 @@
 package leetcode;
-
+/*Given a 32-bit signed integer, reverse digits of an integer.*/
 public class ReverseInteger {
 
     public int reverse(int x) {
